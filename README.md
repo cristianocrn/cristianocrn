@@ -27,8 +27,7 @@
 <img aling="center" alt="vaadin" height="30" width=""  src="https://raw.githubusercontent.com/vaadin/.github/main/profile/vaadin-banner.svg"/>
 </div>
 
-<div>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cristianocrn&bg_color=0f0f10&color=4c9e91&line=4c9e8e&point=00ff4c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+
 
 
