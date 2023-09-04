@@ -2,16 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1EF7CD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Cristiano+Nascimento;I'm+34+years+old;I'm+from+Brazil;I'm+a+Software+enginnering+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
 <div align="center">  
-  <img width="50%" border="1px" height="" src="https://github-readme-stats.vercel.app/api?username=cristianocrn&show_icons=true&count_private=true&hide_border=true&title_color=1EF7CD&icon_color=1EF7CD&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="160px" border="1px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocrn&layout=compact&hide_border=true&title_color=1EF7CD&text_color=1EF7CD&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cristianocrn&show_icons=true&count_private=true&hide_border=true&title_color=1EF7CD&icon_color=1EF7CD&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocrn&layout=compact&hide_border=true&title_color=1EF7CD&text_color=1EF7CD&bg_color=0d1117" />
 </div>
-
-
-
-
 
 ### Contacts
 [![WhatssApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://https://web.whatsapp.com/)
@@ -27,7 +21,6 @@
 <img aling="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 <img aling="center" alt="vaadin" height="30" width=""  src="https://raw.githubusercontent.com/vaadin/.github/main/profile/vaadin-banner.svg"/>
 </div>
-
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
