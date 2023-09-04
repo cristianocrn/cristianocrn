@@ -27,3 +27,5 @@
 <img aling="center" alt="vaadin" height="30" width=""  src="https://raw.githubusercontent.com/vaadin/.github/main/profile/vaadin-banner.svg"/>
 </div>
 
+![Snake animation](https://github.com/cristianocrn/cristianocrn/blob/output/github-contribution-grid-snake.svg)
+
