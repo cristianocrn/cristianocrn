@@ -5,8 +5,8 @@
 
 
 <div align="center">  
-  <img  height="195px" border="1px"src="https://github-readme-stats.vercel.app/api?username=cristianocrn&show_icons=true&count_private=true&hide_border=true&title_color=1EF7CD&icon_color=1EF7CD&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img  height="195px" border="1px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocrn&layout=compact&hide_border=true&title_color=1EF7CD&text_color=1EF7CD&bg_color=0d1117" />
+  <img width="50%" border="1px" height="" src="https://github-readme-stats.vercel.app/api?username=cristianocrn&show_icons=true&count_private=true&hide_border=true&title_color=1EF7CD&icon_color=1EF7CD&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="160px" border="1px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocrn&layout=compact&hide_border=true&title_color=1EF7CD&text_color=1EF7CD&bg_color=0d1117" />
 </div>
 
 
@@ -40,3 +40,4 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{cristianocrn}/count.svg" /></p> 
 <br>
+
