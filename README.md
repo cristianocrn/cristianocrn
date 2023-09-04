@@ -27,12 +27,9 @@
 <img aling="center" alt="vaadin" height="30" width=""  src="https://raw.githubusercontent.com/vaadin/.github/main/profile/vaadin-banner.svg"/>
 </div>
 
+<div>
 ![Snake animation](https://github.com/cristianocrn/cristianocrn/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
 
