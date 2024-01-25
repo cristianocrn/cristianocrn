@@ -2,7 +2,7 @@
 Cristiano Rocha Nascimento  
 ```
 * Programador Junior | Java
-* Engenheiro de Software em Formação | 2° ano
+* Engenheiro de Software em Formação | 3° ano
 * Sou membro da equipe de desenvolvimento na FJ Sistemas, onde tenho a oportunidade de aplicar meu conhecimento em Java e contribuir em diversos projetos.
 * Esta experiência tem sido fundamental para o meu desenvolvimento como programador o que amplia ainda mais minha compreensão do desenvolvimento de software e me inspira a aprender cada dia mais.
 
